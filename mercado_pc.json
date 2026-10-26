@@ -1,0 +1,14 @@
+[
+    {
+        "nombre": "Kylian Mbappé",
+        "precio_medio": 2851667,
+        "cartas_analizadas": 78,
+        "advertencia": null
+    },
+    {
+        "nombre": "Vinícius Jr.",
+        "precio_medio": 1910000,
+        "cartas_analizadas": 30,
+        "advertencia": "Ojo que puede que el resultado de las monedas puede que no sea cierto debido a la poca cantidad que haya en ese momento"
+    }
+]
